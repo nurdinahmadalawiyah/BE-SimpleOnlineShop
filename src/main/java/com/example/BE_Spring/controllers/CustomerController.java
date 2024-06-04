@@ -1,9 +1,9 @@
 package com.example.BE_Spring.controllers;
 
-import com.example.BE_Spring.dtos.CustomerRequestDto;
-import com.example.BE_Spring.dtos.CustomerResponseDto;
+import com.example.BE_Spring.dtos.Customer.CustomerRequestDto;
+import com.example.BE_Spring.dtos.Customer.CustomerResponseDto;
 import com.example.BE_Spring.dtos.DataResponseDto;
-import com.example.BE_Spring.dtos.ListCustomerResponseDto;
+import com.example.BE_Spring.dtos.Customer.ListCustomerResponseDto;
 import com.example.BE_Spring.services.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

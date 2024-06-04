@@ -1,9 +1,9 @@
 package com.example.BE_Spring.services;
 
-import com.example.BE_Spring.dtos.CustomerRequestDto;
-import com.example.BE_Spring.dtos.CustomerResponseDto;
+import com.example.BE_Spring.dtos.Customer.CustomerRequestDto;
+import com.example.BE_Spring.dtos.Customer.CustomerResponseDto;
 import com.example.BE_Spring.dtos.DataResponseDto;
-import com.example.BE_Spring.dtos.ListCustomerResponseDto;
+import com.example.BE_Spring.dtos.Customer.ListCustomerResponseDto;
 import com.example.BE_Spring.models.Customer;
 import com.example.BE_Spring.repositories.CustomerRepository;
 import jakarta.persistence.EntityNotFoundException;

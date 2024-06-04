@@ -34,7 +34,7 @@ public class Item {
     private BigDecimal price;
 
     @Column(name = "is_available")
-    private boolean isAvailable;
+    private Boolean isAvailable;
 
     @Column(name = "last_re_stock")
     private Timestamp lastReStock;

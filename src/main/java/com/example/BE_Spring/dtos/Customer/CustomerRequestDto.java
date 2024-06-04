@@ -1,4 +1,4 @@
-package com.example.BE_Spring.dtos;
+package com.example.BE_Spring.dtos.Customer;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
